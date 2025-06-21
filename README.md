@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final-Year CSE Student | 💡 Tech Explorer | 📊 Data-Driven Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Final+Year+CSE+Student+👨‍💻;Aspiring+Data+Scientist+🔍;Full-Stack+Developer+In+Progress+💻;RBI%2FSEBI+Dreamer+🎯;Building+Useful+Things+With+Code+🛠️;Consistency+%3E+Talent+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Final+Year+CSE+Student+👨‍💻;Aspiring+Data+Scientist+🔍;Full-Stack+Developer+In+Progress+💻;Building+Useful+Things+With+Code+🛠️;Consistency+%3E+Talent+🔥" alt="Typing SVG" />
 </p>
 
 ---
