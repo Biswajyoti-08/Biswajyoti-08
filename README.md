@@ -21,20 +21,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,express,mongodb,mysql,html,css,tailwind,git,vscode&perline=8" />
 </p>
 
----
-
-## 🧩 Projects
-
-| 🌟 Project | 🚀 Description |
-|-----------|----------------|
-| [**Esports Match Predictor**] | ML model to predict League of Legends match outcomes – built as part of research work |
-| [**Sales Insight**] | Python + SQL + Power BI dashboard to visualize sales |
-| [**Zombie Survival Game**] | C++ SFML project using OOP, game loop, and pickup mechanics |
-| [**Online Attendance System**] | RESTful API system for managing student attendance using Node.js & Express |
-
-> 💡 All projects are built from scratch, self-taught, and fueled by curiosity.
-
-
 ## 🔗 Connect With Me
 
 <p align="center">
