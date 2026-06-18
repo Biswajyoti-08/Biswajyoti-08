@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final-Year CSE Student | 💡 Full-Stack + ML Builder | 📊 Data-Driven Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+👨‍💻;Building+Full-Stack+%2B+ML+Systems+🤖;FastAPI+%C2%B7+React+%C2%B7+XGBoost+%C2%B7+LLMs+💻;Open+to+SDE+%2F+ML+Roles+🚀;Consistency+%3E+Talent+🔥" alt="Typing SVG" />
+  <strong style="font-size:18px; color:#58A6FF;">Building Full-Stack + ML Systems — FastAPI · React · XGBoost · LLMs</strong>
 </p>
 
 ---
